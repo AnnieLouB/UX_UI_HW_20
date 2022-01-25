@@ -402,10 +402,10 @@ padding-left: 50px;
     margin-top: 150px;
 }
 
-.m-auto {
+/* .m-auto { */
     /* padding-top: 500px;
     align-items: flex-end; */
-}
+
 .m-auto div.row{
     align-items: center;
     display: inline-flex;
