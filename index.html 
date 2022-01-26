@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="./CSS /style.css">
+    <link rel="stylesheet" href="./UX_UI_HW_20./CSS /style.css">
 
     <title>Annie's Case Study AFFEC </title>
 </head>
@@ -22,7 +22,7 @@
         <ul>
             <li><a href="https://annieloub.github.io/UX_UI_HW_19/"class=" nav-item">Work</a></li>
             <div class="logo">
-                <img src="./Images/Sunflower Bee copy.jpg" height="280" width="280">
+                <img src="./UX_UI_HW_20./Images/Sunflower Bee copy.jpg" height="280" width="280">
             </div>
             <li><a href="#" class="nav-item">About</a></li>
         </ul>
@@ -61,7 +61,7 @@
     <!-- Hero Image HTML -->
     <section class="herosection">
         <div class="heroImage">
-            <img src="./Images/Hero Prototype copy.png">
+            <img src="./UX_UI_HW_20./Images/Hero Prototype copy.png">
 
             <p style="margin-top:-50px; margin: bottom 50px;"></p>
             <c>Redesigned <a
@@ -185,7 +185,7 @@
                             <div class="card-body">
                                 <div class="card-title">
                                     <h3> Obstacles</h3>
-                                    <img class="card-img-left" src="./Images/barrier.png" alt="Card image left">
+                                    <img class="card-img-left" src="./UX_UI_HW_20./Images/barrier.png" alt="Card image left">
                                 </div>
                                 <c class="card-tex-left">Clients fail to get involved with the adoption process because
                                     they assume it is logistaically complex and emotionally challenging. </c>
@@ -194,7 +194,7 @@
                                 <div class="card-body">
                                     <div class="card-title">
                                         <h3> Positive Aspects</h3>
-                                        <img class="card-img-left" src="./Images/positive insights .png"
+                                        <img class="card-img-left" src="./UX_UI_HW_20./Images/positive insights .png"
                                             alt="Card image left">
                                     </div>
                                     <c class="card-tex-left">There has been an increase in adoption since the pandemic.
@@ -205,7 +205,7 @@
                                 <div class="card-body">
                                     <div class="card-title">
                                         <h3> To Improve</h3>
-                                        <img class="card-img-left" src="./Images/Component 2.png" alt="Card image left">
+                                        <img class="card-img-left" src="./UX_UI_HW_20./Images/Component 2.png" alt="Card image left">
                                     </div>
                                     <c class="card-tex-left">Communicate a professional & trustworthy brand,
                                         guide new clients with structured onboarding,
@@ -246,16 +246,16 @@
             <div class="cartoonContainer">
                 <div class="row">
                     <div class="col-6 col-lg-3">
-                        <img src="./Images/storyboard1 (1).png" class="img-fluid">
+                        <img src="./UX_UI_HW_20./Images/storyboard1 (1).png" class="img-fluid">
                     </div>
                     <div class="col-6 col-lg-3">
-                        <img src="./Images/storyboard2.png" class="img-fluid">
+                        <img src="./UX_UI_HW_20./Images/storyboard2.png" class="img-fluid">
                     </div>
                     <div class="col-6 col-lg-3">
-                        <img src="./Images/storyboard3.png" class="img-fluid">
+                        <img src="./UX_UI_HW_20./Images/storyboard3.png" class="img-fluid">
                     </div>
                     <div class="col-6 col-lg-3">
-                        <img src="./Images/storyboard4 (1).png" class="img-fluid">
+                        <img src="./UX_UI_HW_20./Images/storyboard4 (1).png" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -282,7 +282,7 @@
         <div class="col">
             <div class="col-md-8">
                 <div class="cardModules">
-                    <img src="./Images/cards.jpg" class="img-fluid">
+                    <img src="./UX_UI_HW_20./Images/cards.jpg" class="img-fluid">
                     <c> New homepage card modules welcome and guide clients to information and resources relevant to
                         their specific needs and interests.
                     </c>
@@ -292,7 +292,7 @@
             <div class="col">
                 <div class="col-md-8">
                     <div class="siteMap">
-                        <img src="./Images/A Family For Every Child Sitemap (1).jpg" class="img-fluid">
+                        <img src="./UX_UI_HW_20./Images/A Family For Every Child Sitemap (1).jpg" class="img-fluid">
                         <c> <a href="https://www.figma.com/file/kPBp7mTOaz3hFJQbNezHH0/A-Family-For-Every-Child-Sitemap?node-id=0%3A1"
                                 target="_blank">New Site Map</a> with reconstructed information architecture for easy
                             above the fold naviagation
@@ -386,20 +386,20 @@
                 <!-- Right Col -->
                 <div class="col-md-6">
                     <div class="row">
-                        <img class="m-auto buttons" src="./Images/buttonstates .jpg" class="img-fluid" width="400"
+                        <img class="m-auto buttons" src="./UX_UI_HW_20./Images/buttonstates .jpg" class="img-fluid" width="400"
                             height="400">>
                         <c class="m-auto"> Interactive buttons with new color pallette </c>
                     </div>
                     <div class="col-lg-4-md-6-sm-12" style="padding-top: 400px;">
                         <div class="row">
-                            <img class="m-auto feelings" src="./Images/Feelings.png" class="img-fluid" width="400"
+                            <img class="m-auto feelings" src="./UX_UI_HW_20./Images/Feelings.png" class="img-fluid" width="400"
                                 height="400">.
                             <c class="m-auto">Expressed Positive feelings from Usability Tests </c>
                         </div>
                     </div>
                     <div class="col-lg-4-md-6-sm-12" style="padding-top: 400px;">
                         <div class="row">
-                            <img class="m-auto fontStates" src="./Images/fontstates.jpg" class="img-fluid" width="400"
+                            <img class="m-auto fontStates" src="./UX_UI_HW_20./Images/fontstates.jpg" class="img-fluid" width="400"
                                 height="400">
                             <c class="m-auto">Redesigned logo with legible and professional font</c>
                         </div>
@@ -418,13 +418,13 @@
             <div class="row" style="
             align-items: center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <img class="step1" src="./Images/Group.png" class="img-fluid">
+                    <img class="step1" src="./UX_UI_HW_20./Images/Group.png" class="img-fluid">
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <img class="step2" src="./Images/Group 2.png" class="img-fluid">
+                    <img class="step2" src="./UX_UI_HW_20./Images/Group 2.png" class="img-fluid">
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                    <img class="step3" src="./Images/Group3.png" class="img-fluid">
+                    <img class="step3" src="./UX_UI_HW_20./Images/Group3.png" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -445,20 +445,20 @@
         <div class="row">
             <div class="col-lg-4-md-6-sm-12">
                 <a href="#" class="thumbnail">
-                    <img src="./Images/usdt.png" alt="Generic placeholder thumbnail" width="400" height="550">
+                    <img src="./UX_UI_HW_20./Images/usdt.png" alt="Generic placeholder thumbnail" width="400" height="550">
                 </a>
             </div>
             <div class="row">
                 <div class="col-lg-4-md-6-sm-12">
                     <a href="#" class="thumbnail">
-                        <img src="./Images/arloom.png" alt="Generic placeholder thumbnail" width="400" height="550">
+                        <img src="./UX_UI_HW_20./Images/arloom.png" alt="Generic placeholder thumbnail" width="400" height="550">
                     </a>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4-md-6-sm-12">
                     <a href="#" class="thumbnail">
-                        <img src="./Images/cranefly.png" alt="Generic placeholder thumbnail" width="400" height="550">
+                        <img src="./UX_UI_HW_20./Images/cranefly.png" alt="Generic placeholder thumbnail" width="400" height="550">
                     </a>
                 </div>
                 </a>
@@ -479,9 +479,9 @@
         </div>
         <div class="socials">
             <a href="https://www.instagram.com/annie__louise_/" class="ig">
-                <img src="./Images/igImage copy.jpg" Instagram></a>
+                <img src="./UX_UI_HW_20./Images/igImage copy.jpg" Instagram></a>
             <a href="https://www.linkedin.com/in/annie-bunch-b91a37178/" class="ig">
-                <img src="./Images/inImage copy.jpg" LinkedIn></a>
+                <img src="./UX_UI_HW_20./Images/inImage copy.jpg" LinkedIn></a>
         </div>
     </section>
 
@@ -489,6 +489,6 @@
 </body>
 <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
     crossorigin="anonymous"></script>
-<script src="<> js index.js"></script>
+<script src="./UX_UI_HW_20./<> js index.js"></script>
 
 </html>
